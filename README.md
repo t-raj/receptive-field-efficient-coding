@@ -1,2 +1,3 @@
 # receptive-field-efficient-coding
-A Python script that simulates human visual perception with Gaussian and Gabor filters
+
+This Python script simulates the primary visual cortex's detection of features by applying Gaussian and Gabor filters to a natural image. These filters detect simple shapes and patterns in the field of view, which are later combined to differentiate objects.
